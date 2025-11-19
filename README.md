@@ -1,4 +1,4 @@
-# Firmoo Meta Ads Performance Evaluator
+# Meta Ads Performance Evaluator
 
 This repository contains a fully operational scoring and decision-making system for evaluating Meta Ads performance for Firmoo’s Spain market.  
 It includes two Jupyter Notebooks:
