@@ -1,0 +1,113 @@
+"Reporting starts","Reporting ends","Campaign name","Campaign delivery","Ad set budget","Ad set budget type","Attribution setting",Results,"Result indicator",Reach,Impressions,Frequency,"CPM (cost per 1,000 impressions) (USD)","Cost per results",Purchases,"Purchase ROAS (return on ad spend)","Amount spent (USD)",Ends
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC,active,"Using ad set budget",0,"7-day click or 1-day view",93,actions:offsite_conversion.fb_pixel_purchase,112755,229208,2.032797,6.188702,15.25268817,93,4.194974,1418.5,Ongoing
+2025-11-12,2025-11-18,ES-转化-产品-目录,active,"Using ad set budget",0,"7-day click or 1-day view",83,actions:offsite_conversion.fb_pixel_purchase,102440,264873,2.58564,3.824625,12.2053012,83,4.558162,1013.04,Ongoing
+2025-11-12,2025-11-18,ES-转化-折扣季产品-目录-ASC,active,"Using ad set budget",0,"7-day click or 1-day view",59,actions:offsite_conversion.fb_pixel_purchase,135054,330299,2.445681,3.575427,20.01627119,59,2.547267,1180.96,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-欧珀,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",68,actions:offsite_conversion.fb_pixel_purchase,101889,186100,1.826497,3.782268,10.35117647,68,5.834745,703.88,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-爆款,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",146,actions:offsite_conversion.fb_pixel_purchase,267249,716882,2.68245,2.958911,14.52869863,146,4.176745,2121.19,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户诉求-ASC-视频,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",213,actions:offsite_conversion.fb_pixel_add_to_cart,164259,220545,1.342666,4.206216,4.35521127,17,1.046062,927.66,Ongoing
+2025-11-12,2025-11-18,"ES-转化- ASC-Catalog",active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",31,actions:offsite_conversion.fb_pixel_purchase,64978,142489,2.192881,2.932998,13.48129032,31,4.516391,417.92,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-套镜-Catalog,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",35,actions:offsite_conversion.fb_pixel_purchase,43463,110314,2.538113,3.168863,9.98771429,35,6.597048,349.57,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户画像-组1-视频,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",,,67733,106957,1.579097,4.577447,,25,2.600319,489.59,Ongoing
+2025-11-12,2025-11-18,ES-点击-品宣,active,"Using ad set budget",0,"7-day click or 1-day view",1894,actions:landing_page_view,50736,71285,1.405018,1.967595,0.07405491,3,,140.26,Ongoing
+2025-11-12,2025-11-18,ES-转化-促销季,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",32,actions:offsite_conversion.fb_pixel_purchase,49392,86650,1.754333,4.019388,10.88375,32,5.13248,348.28,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-PGC,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",529,actions:offsite_conversion.fb_pixel_add_to_cart,389042,454339,1.16784,3.166006,2.71916824,32,1.067761,1438.44,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC2,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",266,actions:offsite_conversion.fb_pixel_add_to_cart,183309,220421,1.202456,3.80118,3.14984962,24,1.733882,837.86,Ongoing
+2025-11-12,2025-11-18,ES-转化-复古系列,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",283,actions:offsite_conversion.fb_pixel_add_to_cart,168736,249441,1.478292,3.096965,2.72971731,25,1.555436,772.51,Ongoing
+2025-11-12,2025-11-18,ES-转化-豹纹系列,inactive,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",25,actions:offsite_conversion.fb_pixel_add_to_cart,9705,10825,1.115404,4.306697,1.8648,1,1.15015,46.62,Ongoing
+2025-11-12,2025-11-18,ES-转化-女性力量系列,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",318,actions:offsite_conversion.fb_pixel_add_to_cart,82460,149225,1.809665,4.714358,2.21226415,29,2.008998,703.5,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-爆款2,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",20,actions:offsite_conversion.fb_pixel_purchase,66331,116706,1.759449,2.999674,17.504,20,3.731261,350.08,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-套镜,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",38,actions:offsite_conversion.fb_pixel_purchase,77978,113006,1.449204,4.351716,12.94131579,38,5.529679,491.77,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC4,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",67,actions:offsite_conversion.fb_pixel_purchase,131124,190394,1.452015,4.428238,12.58373134,67,5.000676,843.11,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-太阳镜-Catalog,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",28,actions:offsite_conversion.fb_pixel_purchase,34357,87471,2.545944,3.979033,12.43035714,28,4.882143,348.05,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-新品系列,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",21,actions:offsite_conversion.fb_pixel_purchase,48053,72910,1.517283,4.834865,16.78619048,21,3.539786,352.51,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-混合,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",52,actions:offsite_conversion.fb_pixel_purchase,91751,176514,1.923837,4.801602,16.29903846,52,3.500454,847.55,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户诉求-套镜,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",44,actions:offsite_conversion.fb_pixel_purchase,103818,152828,1.472076,4.228675,14.68772727,44,3.303779,646.26,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC6,inactive,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",5,actions:offsite_conversion.fb_pixel_purchase,41345,45706,1.105478,3.183171,29.098,5,1.340298,145.49,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-无框,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC5,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,AD-转化-品宣,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-战略部-超轻系列,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,AD-流量-品宣,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-SALES-BOF,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",32,actions:offsite_conversion.fb_pixel_purchase,49216,154213,3.133392,4.303982,20.7415625,32,1.963012,663.73,Ongoing
+2025-11-12,2025-11-18,ES-SALES-TOF-COLECCION,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",18,actions:offsite_conversion.fb_pixel_purchase,55769,96528,1.730854,3.60341,19.32388889,18,3.552339,347.83,Ongoing
+2025-11-12,2025-11-18,ES-SALES-TOP-CTLG,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-SALES-TOF-CLCC,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",25,actions:offsite_conversion.fb_pixel_purchase,64167,113133,1.763103,3.119249,14.1156,25,3.52532,352.89,Ongoing
+2025-11-12,2025-11-18,ES-SALES-TOF-BF,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",738,actions:offsite_conversion.fb_pixel_add_to_cart,150576,374588,2.487701,4.124959,2.09371274,59,2.024353,1545.16,Ongoing
+2025-11-12,2025-11-18,ES-SALES-TOF-BF2,active,"Using ad set budget",0,"7-day click, 1-day view, or 1-day engaged-view",11,actions:offsite_conversion.fb_pixel_purchase,17022,32691,1.920515,5.807409,17.25909091,11,2.721517,189.85,Ongoing
+2025-11-12,2025-11-18,ES-新品系列-战略部-一对十二系列-ASC-ATC,active,500,Daily,"7-day click, 1-day view, or 1-day engaged-view",87,actions:offsite_conversion.fb_pixel_add_to_cart,63592,80902,1.272204,5.15525,4.79390805,3,0.412209,417.07,Ongoing
+2025-11-12,2025-11-18,ES-点击-品宣,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-产品-目录-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品-New,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-点击-地域-Elche,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户画像-组3-图,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户画像-组4-视频,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-战略部-新品系列,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主-ASC3,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-Top50-Catalog,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-INS,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"New Sales Campaign",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-套镜,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,TOF-ES-转化-地域-Elche,inactive,20,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户画像-组2,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-花卉,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-CLIPS,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品-变色,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,TOF-ES-转化-地域-Elche,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-Colleccion,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品爆款-博主图,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品测款,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品-测试,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-种草-产品系列-爆款-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-点击-种草-产品系列,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-蝴蝶结,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-大框,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-商品系列-玳瑁,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-FirmooDay,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,TOF-ES-点击-地域-Eche,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,TOF-ES-转化-地域-Eche,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,TOF-ES-流量-地域-Eche,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-商品-爆款,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户诉求-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-用户诉求-NU,inactive,100,Daily,-,,,0,0,0,0,,,,0,1970-01-01
+2025-11-12,2025-11-18,"ES｜ABO｜Interest｜Female - Test",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜ABO｜Interest｜Female - Test1",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜ABO｜Interest｜Female - Test2",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜ABO｜Interest｜Female - Test3",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-点击-品宣-博主-兴趣,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-种草-产品系列-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-种草-产品系列-Birthstone-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-种草-产品系列-Bow-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-品宣-博主,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主2-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-成效-大促,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-品宣-博主3-ASC,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,通用眼镜-Traffic-CPC,inactive,5,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,Remarketing-Impression,inactive,5,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES｜CBO｜Interest｜Female,inactive,320,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - BF - 2",inactive,250,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - BF - 3",inactive,40,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - Music",inactive,50,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - Food",inactive,1,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - Football",inactive,50,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - Art",inactive,50,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜TOF｜Lal｜Female | Email",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-成效-再营销-促销,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES｜BOF｜T6｜All,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"LSC | Interesting | Female",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"LSC | Retargeting | T1 | 20-50",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"CBO | ES | Interest | Testing",inactive,60,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES｜ABO｜Interest/Behavior｜Female,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - BF",inactive,150,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female - Home",inactive,30,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female｜45-60 - Instruments",inactive,20,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female｜45-60 -  Principle",inactive,1,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female｜45-60 -  Handicraft",inactive,10,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female｜45-60 -  Pets",inactive,10,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜CBO｜Interest｜Female｜30-55 - Low-Income-Careers",inactive,20,Daily,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,"ES｜ABO｜Interest｜Female｜45-60 - Pets",inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-种草-产品-兴趣,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-种草-产品-眼镜兴趣-种草,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-流量-促销-产品,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
+2025-11-12,2025-11-18,ES-转化-成效-视频,inactive,"Using ad set budget",0,-,,,0,0,0,0,,,,0,Ongoing
